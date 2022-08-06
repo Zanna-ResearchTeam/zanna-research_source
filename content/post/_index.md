@@ -6,6 +6,6 @@ view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'Figure by Elizabeth Yankovsky'
+  image: '/Elizabeth.jpg'
 ---
