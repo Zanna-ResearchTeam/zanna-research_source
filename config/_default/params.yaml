@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  theme_day: ocean
+  theme_night: minimal
+  font: Minimal
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'Zanna research group'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zanna-research/zanna-research.github.io'
     content_dir: content
     branch: main
   avatar:
