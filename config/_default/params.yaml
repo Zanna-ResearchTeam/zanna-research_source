@@ -11,6 +11,9 @@ appearance:
   font: Minimal
   font_size: M
 
+
+  i_am_a_sponsor:  true
+
 # SEO
 
 marketing:
