@@ -11,8 +11,7 @@ appearance:
   font: Minimal
   font_size: M
 
-
-  i_am_a_sponsor:  true
+  i_am_a_sponsor: true
 
 # SEO
 
@@ -22,7 +21,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Zanna research group'
-    twitter: 'wowchemy'
+    twitter: 'laurezanna'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
