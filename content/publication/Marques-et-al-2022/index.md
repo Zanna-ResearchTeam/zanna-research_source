@@ -3,7 +3,7 @@ title: 'NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale
 authors:
   - G. Marques
   - N. Loose
-  - E. Yankovsky
+  - Elizabeth Yankovsky
   - J. Steinberg
   - C.Y. Chang
   - N. Bhamidipati

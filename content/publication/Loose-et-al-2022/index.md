@@ -7,7 +7,7 @@ authors:
 - I. Grooms
 - J. Busecke
 - A. Guillaumin
-- E. Yankovsky
+- Elizabeth Yankovsky
 - G. Marques
 - J. Steinberg
 - A.S. Ross
