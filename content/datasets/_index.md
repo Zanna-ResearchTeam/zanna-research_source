@@ -10,6 +10,20 @@ banner:
   image: '/pavel_data2.png'
 ---
 
+### M²LInES related datasets
+
+- Code for Pyqg Parameterization benchmarks from Ross et al. 2022 [Pyqg_parameterization_benchmarks](Pyqg_parameterization_benchmarks)
+
+- Convolutional Neural Network subgrid momentum using CM2.6 data from Guillaumin and Zanna 2021: [Ocean Momentum Parameterization](https://doi.org/10.5281/zenodo.5076046)
+
+- [Parameterizations in pyqg](https://github.com/pyqg/pyqg): e.g., implementation of Zanna & Bolton 2020
+
+- [MOM6 Implementation of data-driven parameterization](https://github.com/Pperezhogin/MOM6/blob/Zanna-Bolton-2020/src/parameterizations/lateral/MOM_Zanna_Bolton.F90): e.g., Zanna & Bolton 2020.
+
+### Ocean Transport and Eddy Energy CPT Datasets
+- GCM-filter codes and datasets from Noose et al. 2022 on [Github](https://github.com/ocean-eddy-cpt/gcm-filters)
+
+- Neverworld dataset from Marques et al. 2022 [here](https://www.earthsystemgrid.org/dataset/ucar.cgd.nw2.mom6.html)
 
 ### Ocean Warming and Sea Level Datasets
 

@@ -6,8 +6,8 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: '/building.jpeg'
+  caption: 'Photo by Fabrizio Falasca'
+  image: '/NYC.jpg'
 ---
 
 [updated 08/2021]

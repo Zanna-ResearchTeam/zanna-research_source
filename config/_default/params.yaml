@@ -54,7 +54,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jul 29, 2022'
+  date: "`r format(Sys.time(), '%d %B, %Y')`"
+  #date_format: 'Jul 29, 2022'
   time_format: '3:04 PM'
   address_format: en-us
 

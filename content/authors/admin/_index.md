@@ -52,11 +52,18 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/LaureZanna
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8472-4828
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Laure-Zanna-2
+  - icon: cv
+    icon_pack: ai
+    link: 'files/cv.pdf'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: 'files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

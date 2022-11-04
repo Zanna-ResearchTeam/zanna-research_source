@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: Fabrizio.png
     - title: our group
       content: 'Based in NYC, our group also includes researchers accross 2 continents and 3 different time zones!'
       align: left
@@ -43,7 +43,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome2.jpeg
+        media: coders2.jpeg
       link:
         icon: 
         icon_pack: fas
