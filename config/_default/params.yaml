@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/zanna-research/zanna-research.github.io'
+    url: 'https://github.com/Zanna-ResearchTeam/zanna_group.github.io'
     content_dir: content
     branch: main
   avatar:

@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/zanna-research/zanna_group.github.io.git
+	url = https://github.com/Zanna-ResearchTeam/zanna_group.github.io.git
 	branch = main
