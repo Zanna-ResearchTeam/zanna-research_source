@@ -21,8 +21,8 @@ jobs:
       env:
         HUGO_VERSION: 0.101.0
         HUGO_EXTENDED: true
-        TARGET_REPO: zanna-research/zanna-research.github.io
+        TARGET_REPO: Zanna-ResearchTeam/zanna_group.github.io
         TOKEN: ${{ secrets.WEB_DEPLOY }}
-        CNAME: zanna-research.github.io
+        CNAME: zanna_group.github.io
         HUGO_ARGS: --debug
         GO_VERSION: 1.17
