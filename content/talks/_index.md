@@ -19,6 +19,9 @@ Our recorded talks can be found on our [Youtube channel](https://www.youtube.com
 ## Past talks
 
 ## *2022* 
+
+* **Laure Zanna** - Hammers and Nails 2022 - *Ai for Climate Physics* August 4th. [Slides](https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0)
+* **Laure Zanna** - SIAM conference on Mathematics for Planet Earth - plenary talk  July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
 - **Laure Zanna** - 2022 CESM Workshop. Joint plenary talk with Galen McKinley on M²LInES and LEAP on June 13th. <a class="button button-inline" href="https://youtu.be/q_gGIL-Kvgs?t=11576">Video</a> 
 * **Laure Zanna** - NCAR Mesoscale & Microscale Meteorology Laboratory. *Machine Learning for Mesoscale Closures in Ocean Models.*  June 2nd <a class="button button-inline" href="https://www.youtube.com/watch?v=qRSXSkjvFcE">Video</a>
 * **Laure Zanna** - Ocean Sciences Meeting 2022. *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models*   Mar 4th <a class="button button-inline" href="https://youtu.be/ydiCxUliaG0">Video</a>
