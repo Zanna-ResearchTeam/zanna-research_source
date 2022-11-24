@@ -1,22 +1,22 @@
 ---
 title: 'Greenhouse-gas forced changes in the Atlantic meridional overturning circulation and related worldwide sea-level change'
 authors:
- - Couldrey, Matthew P.
- - Gregory, Jonathan M.
- - Dong, Xiao
- - Garuba, Oluwayemi
- - Haak, Helmuth
- - Hu, Aixue
- - Hurlin, William J.
- - Jin, Jiangbo
- - Jungclaus, Johann
- - Köhl, Armin
- - Liu, Hailong
- - Ojha, Sayantani
- - Saenko, Oleg A.
- - Savita, Abhishek
- - Suzuki, Tatsuo
- - Yu, Zipeng
+ - M. P. Couldrey
+ - J. M. Gregory
+ - X. Dong
+ - O. Garuba
+ - H. Haak
+ - A. Hu
+ - W. J. Hurlin
+ - J. Jin
+ - J. Jungclaus
+ - A. Köhl
+ - H. Liu
+ - S. Ojha
+ - O. A. Saenko
+ - A. Savita
+ - T. Suzuki
+ - Z. Yu
  - admin
 date: '2022-08-02T00:00:00Z'
 doi: 'https://doi.org/10.1007/s00382-022-06386-y'
@@ -76,8 +76,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

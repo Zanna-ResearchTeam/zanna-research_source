@@ -2,15 +2,15 @@
 title: 'GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data'
 
 authors:
-- N.Loose
+- Nora_Loose
 - R. Abernathey
 - I. Grooms
 - J. Busecke
 - A. Guillaumin
-- Elizabeth Yankovsky
+- Elizabeth_Yankovsky
 - G. Marques
 - J. Steinberg
-- A.S. Ross
+- Andrew_Ross
 - H. Khatri
 - S. Bachman 
 - admin 
@@ -75,9 +75,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

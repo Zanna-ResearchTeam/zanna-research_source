@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: Our recent projects
+title: Recent projects
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''

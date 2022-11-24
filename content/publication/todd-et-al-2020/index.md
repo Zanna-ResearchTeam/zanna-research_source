@@ -5,14 +5,14 @@ authors:
 
 - A. Todd  
 - admin
-- M. Couldrey
-- J. Gregory
+- M. P. Couldrey
+- J. M. Gregory
 - Q. Wu
 - J. Church
 - R. Farneti
 - R. Navarro-Labastida
 - K. Lyu
-- O. Saenko
+- O. A. Saenko
 - D. Yang
 - X. Zhang
 

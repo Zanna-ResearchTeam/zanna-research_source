@@ -1,9 +1,9 @@
 ---
 title: 'Influences of Mesoscale Ocean Eddies on Flow Vertical Structure in a Resolution-Based Model Hierarchy'
 authors:
- - Elizabeth Yankovsky
+ - Elizabeth_Yankovsky
  - admin
- - Smith, K. Shafer
+ - K. S. Smith
 date: '2022-10-07T00:00:00Z'
 doi: 'https://doi.org/10.1029/2022MS003203'
 
@@ -62,8 +62,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

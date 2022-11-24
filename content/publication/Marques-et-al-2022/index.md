@@ -2,14 +2,14 @@
 title: 'NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions'
 authors:
   - G. Marques
-  - N. Loose
-  - Elizabeth Yankovsky
+  - Nora_Loose
+  - Elizabeth_Yankovsky
   - J. Steinberg
   - C.Y. Chang
   - N. Bhamidipati
   - A. Adcroft
   - B. Fox-Kemper
-  - S. Griffies
+  - S. M. Griffies
   - R. Hallberg
   - M. Jansen
   - H. Khatri
@@ -71,5 +71,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

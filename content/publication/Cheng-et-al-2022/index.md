@@ -1,21 +1,21 @@
 ---
 title: 'Past and future ocean warming'
 authors:
-  - Cheng, Lijing
-  - von Schuckmann, Karina
-  - Abraham, John P.
-  - Trenberth, Kevin E.
-  - Mann, Michael E.
+  - L. Cheng
+  - K. von Schuckmann
+  - J.P. Abraham
+  - K. E. Trenberth
+  - M. E. Mann
   - admin
-  - England, Matthew H.
-  - Zika, Jan D.
-  - Fasullo, John T.
-  - Yu, Yongqiang
-  - Pan, Yuying
-  - Zhu, Jiang
-  - Emily Newsom
-  - Bronselaer, Ben
-  - Lin, Xiaopei
+  - M. H. England
+  - J. D. Zika
+  - J. T. Fasullo
+  - Y. Yu
+  - Y. Pan
+  - J. Zhu
+  - Emily_Newsom
+  - B. Bronselaer
+  - X. Lin
 
 date: '2022-08-18T00:00:00Z'
 doi: 'https://doi.org/10.1038/s43017-022-00345-1'
@@ -74,9 +74,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

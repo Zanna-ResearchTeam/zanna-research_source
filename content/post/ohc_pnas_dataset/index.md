@@ -28,4 +28,4 @@ The datasets for the upper 300 m, upper 700 m, upper 2000 m, below 2000 m, and f
 
 [Thermosteric Sea Level (v0) 1870-2018](https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0)
 
-For further details regarding the method, please consult our [manuscript](https://laurezanna.github.io/files/Zanna-et-al-2019.pdf) and [supplementary material](https://laurezanna.github.io/files/Zanna-et-al-SI-2019.pdf).
+For further details regarding the method, please consult our [manuscript](https://zanna-researchteam.github.io/files/Zanna-et-al-2019.pdf) and [supplementary material](https://zanna-researchteam.github.io/files/Zanna-et-al-SI-2019.pdf).

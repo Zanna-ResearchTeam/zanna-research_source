@@ -5,7 +5,7 @@ authors:
 
 - admin
 - S. Khatiwala
-- J. Gregory
+- J. M. Gregory
 - J. Ison
 - P. Heimbach
 
