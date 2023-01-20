@@ -6,7 +6,7 @@ title: Aurora Basinski
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student [they/them]
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Tracer distribution
-  - Ocean carbon uptake
-  - Conceptual models
+  - Global ocean dynamics
+  - Sea level
+  - Hydrological cycle estimation
 
 # education:
 #  courses:
