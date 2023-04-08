@@ -1,14 +1,14 @@
 ---
-title: 'Data-driven stochastic parameterizations of subgrid mesoscale eddies in an idealized ocean model'
+title: 'Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model'
 authors:
  - Pavel_Perezhogin 
  - C. Fernandez-Granda
  - admin
-date: '2022-12-27T00:00:00Z'
+date: '2023-04-04T00:00:00Z'
 doi: '' 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-27T00:00:00Z'
+publishDate: '2023-04-04T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: '2022-10-27T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*To be submitted to JAMES*'
+publication: '*Submitted to JAMES; arxiv.org/abs/2302.07984*'
 publication_short: ''
 
 abstract:
@@ -31,11 +31,12 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.1002/essoar.10511742.2"
-#url_pdf: /files/Rossetal2022.pdf
+#url: 'arxiv.org/abs/2302.07984'
+#url_pdf: 'arxiv.org/pdf/2302.07984.pdf'
+url_pdf: /files/Perezhogin_et_al_2023.pdf
 url_code: ''
 url_dataset: ''
-#url_DOI: 'https://doi.org/10.1002/essoar.10511742.2'
+url_DOI: 'https://doi.org/10.3389/fmars.2019.00437'
 url_project: ''
 url_slides: ''
 url_source: ''
