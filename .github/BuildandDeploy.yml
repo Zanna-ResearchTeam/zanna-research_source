@@ -1,0 +1,28 @@
+name: Build and Deploy
+
+ on:
+   push:
+     branches:
+       - main
+
+ jobs:
+   build:
+
+     runs-on: ubuntu-latest
+
+     steps:
+     - name: Checkout main
+       uses: actions/checkout@v1
+       with:
+         submodules: true
+
+     - name: Hugo Deploy GitHub Pages
+       uses: benmatselby/hugo-deploy-gh-pages@main
+       env:
+         HUGO_VERSION: 0.101.0
+         HUGO_EXTENDED: true
+         TARGET_REPO: Zanna-ResearchTeam/Zanna-ResearchTeam.github.io
+         TOKEN: ${{ secrets.WEB_DEPLOY }}
+         CNAME: Zanna-ResearchTeam.github.io
+         HUGO_ARGS: --debug
+         GO_VERSION: 1.17
