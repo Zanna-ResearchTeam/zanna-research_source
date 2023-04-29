@@ -16,7 +16,7 @@ publishDate: '2023-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: '*JAMES, 15, e2022MS003258*'
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/essoar.10511742.2"
-url_pdf: /files/Ross_et_al_2023 
+url_pdf: /files/Ross_et_al_2023.pdf 
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2022MS003258'

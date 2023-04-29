@@ -1,8 +1,10 @@
 ---
-title: 'Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model'
+title: 'Deep learning of systematic sea ice model errors from data assimilation increments'
 authors:
- - Pavel_Perezhogin 
- - C. Fernandez-Granda
+ - W. Gregory 
+ - M. Bushuk
+ - A. Adcroft
+ - Y. Zhang
  - admin
 date: '2023-04-04T00:00:00Z'
 doi: '' 
@@ -17,7 +19,7 @@ publishDate: '2023-04-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Submitted to JAMES; arxiv.org/abs/2302.07984*'
+publication: '*Submitted to JAMES; arXiv.2304.03832*'
 publication_short: ''
 
 abstract:
@@ -33,10 +35,10 @@ featured: false
 # - name: ""
 #url: 'arxiv.org/abs/2302.07984'
 #url_pdf: 'arxiv.org/pdf/2302.07984.pdf'
-url_pdf: /files/Perezhogin_et_al_2023.pdf
+url_pdf: /files/Gregory_et_al_2023.pdf
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.3389/fmars.2019.00437'
+url_DOI: 'https://doi.org/10.48550/arXiv.2304.03832'
 url_project: ''
 url_slides: ''
 url_source: ''
