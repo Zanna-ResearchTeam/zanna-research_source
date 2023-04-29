@@ -8,7 +8,7 @@ authors:
   - C. Fernandez-Granda
   - admin
 date: '2023-04-04T00:00:00Z'
-#doi: 'https://doi.org/10.5194/gmd-15-6567-2022'
+doi: 'https://doi.org/10.48550/arXiv.2303.00962'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-04T00:00:00Z'

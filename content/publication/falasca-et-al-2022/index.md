@@ -11,7 +11,7 @@ authors:
 
 
 date: '2023-04-04T00:00:00Z'
-doi: 'https://arxiv.org/abs/2211.04608'
+doi: 'https://doi.org/10.48550/arXiv.2211.04608'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-04T00:00:00Z'
