@@ -1,7 +1,7 @@
 ---
-title: 'Data-driven multiscale modeling of subgrid parameterizations in climate models'
+title: 'Reliable coarse-grained turbulent simulations through combined offline learning and neural emulation'
 authors:
-  - K. Otness
+  - C. Pedersen
   - J. Bruna
   - admin
 date: '2023-04-04T00:00:00Z'
@@ -17,7 +17,7 @@ publishDate: '2023-04-04T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ICLR, Workshop on Climate Change AI*, arXiv:2303.17496'
+publication: '*ICML, Workshop on The Synergy of Scientific and Machine Learning Modeling*, arXiv:2307.13144'
 publication_short: ''
 
 abstract:
@@ -31,7 +31,7 @@ featured: false
 links:
 #  - name: Preprint
 #    url: https://doi.org/10.5194/egusphere-2022-186
-url_pdf: /files/Otness_et_al_2023.pdf
+url_pdf: /files/Pedersen_et_al_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

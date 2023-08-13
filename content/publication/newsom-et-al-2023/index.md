@@ -1,5 +1,5 @@
 ---
-title: 'Global Pycnocline depth constrains Ocean Heat Uptake Efficiency'
+title: 'Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency'
 
 authors:
 - Emily_Newsom 
@@ -19,7 +19,7 @@ publishDate: '2023-04-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'To be submitted to GRL'
+publication: '*Submitted to GRL*, arXiv:2307.11902'
 publication_short: ''
 
 abstract: '' 
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-21-0827.1"
-#url_pdf: 'files/Newsom-et-al-2021.pdf'
+url_pdf: 'files/Newsom_et_al_2023.pdf'
 url_code: ''
 url_dataset: ''
 #url_DOI: 'https://doi.org/10.1029/2020GL088429'
