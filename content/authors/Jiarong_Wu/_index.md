@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-  -Air-sea Fluxes 
+  - LEAP
 
 # education:
 #  courses:

@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-  -M²LInES 
+  - 
 
 # education:
 #  courses:
