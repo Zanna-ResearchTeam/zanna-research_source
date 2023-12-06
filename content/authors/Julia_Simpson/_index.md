@@ -6,18 +6,28 @@ title: Julia Simpson
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student [she/her]
 
 # Organizations/Affiliations
 organizations:
   - name: Columbia University
-    url: ''
+    url: 'https://gentinelab.eee.columbia.edu/people/julia-simpson'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Julia focuses on exchanges between the ocean and atmosphere, specifically examining ocean heat uptake. She uses machine learning to leverage in situ observations, remote sensing, and climate models to improve parameterizations of air-sea fluxes of heat and momentum. 
+
+Her research is conducted through the National Science Foundation (NSF)-funded Science and Technology Center, Learning the Earth with Artificial Intelligence and Physics (LEAP). She is co-advised by Dr. Pierre Gentine (from Columbia University’s Department of Earth and Environmental Engineering) and Dr. Laure Zanna (a Professor of Mathematics and Atmosphere/Ocean Science at New York University), working in the Gentine Lab and Dr. Zanna’s Climate & Ocean Physics Group, respectively. 
+
+Julia received a Bachelor of Science in Chemical Engineering from Washington University in St. Louis. She worked as an engineering consultant in process, energy, and environmental engineering for two years before starting a PhD at Columbia University in 2022. 
 
 interests:
-  - LEAP
+  - Ocean Warming
+  - Air-Sea Fluxes
+  - Machine Learning 
+  - Model Parameterization
+  - Physical Oceanography
+  - Data Science
+  - Chemical Oceanography
  
 
 # education:
@@ -42,7 +52,7 @@ social:
 #    link: https://scholar.google.com/citations?user=_30iEYgAAAAJ&hl=en&oi=ao
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/aurora-bf
+#    link: https://github.com/juliasimpson97
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'julia.simpson@columbia.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
