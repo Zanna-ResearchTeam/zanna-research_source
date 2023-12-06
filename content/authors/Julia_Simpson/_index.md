@@ -10,8 +10,10 @@ role: PhD Student [she/her]
 
 # Organizations/Affiliations
 organizations:
-  - name: Columbia University
+  - name: Earth & Environmental Engineering at Columbia University
     url: 'https://gentinelab.eee.columbia.edu/people/julia-simpson'
+  - name: Learning the Earth with Artificial Intelligence and Physics (LEAP)
+    url: 'https://leap.columbia.edu/people/studentsandpostdocs/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Julia focuses on exchanges between the ocean and atmosphere, specifically examining ocean heat uptake. She uses machine learning to leverage in situ observations, remote sensing, and climate models to improve parameterizations of air-sea fluxes of heat and momentum. 
@@ -39,9 +41,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'julia.simpson@columbia.edu'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -50,9 +52,9 @@ social:
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=_30iEYgAAAAJ&hl=en&oi=ao
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/juliasimpson97
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/juliasimpson97
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
