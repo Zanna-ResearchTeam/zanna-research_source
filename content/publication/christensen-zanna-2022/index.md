@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/essoar.10511742.2"
-url_pdf: /files/Christensen_Zanna_2023.pdf 
+url_pdf: /static/files/Christensen_Zanna_2022.pdf 
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1093/acrefore/9780190228620.013.826'
