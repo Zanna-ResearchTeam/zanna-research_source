@@ -36,6 +36,8 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
+  - icon: desktop
+    link: https://pperezhogin.github.io
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=HRXHqugAAAAJ&hl=en&oi=ao
